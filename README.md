@@ -1,2 +1,1 @@
-# iwonmin.github.io
-<img src="images/image.jpg" alt="설명 텍스트" width="500">
+<img src="images/image.jpg" alt="Picture" width="500">
